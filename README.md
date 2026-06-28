@@ -10,6 +10,21 @@ A professional, feature-rich Todo Application built with **React (Vite)** on the
 
 ---
 
+## Application Screenshots
+
+Add screenshots of the application running here to make your submission stand out! You can place them in a folder called `screenshots/` and update these paths:
+
+### 1. Dashboard View (Todo List)
+![Todo List Dashboard](./screenshots/dashboard.png)
+
+### 2. Task Details & Edit View
+![Todo Details & Edit](./screenshots/details.png)
+
+### 3. Dark Mode View
+![Dark Mode UI](./screenshots/dark_mode.png)
+
+---
+
 ## Repository Structure
 ```text
 Ziptrrip_todo/
@@ -45,6 +60,7 @@ Ziptrrip_todo/
 │   ├── vite.config.js          # Multi-Page setup config
 │   └── package.json
 │
+├── screenshots/                # Folder containing interface screenshots
 ├── README.md                   # Project overview
 ├── FEATURES.md                 # Detailed feature documentation
 ├── API.md                      # Backend API endpoint reference
