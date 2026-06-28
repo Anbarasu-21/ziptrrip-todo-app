@@ -12,7 +12,6 @@ A professional, feature-rich Todo Application built with **React (Vite)** on the
 
 ## Application Screenshots
 
-Add screenshots of the application running here to make your submission stand out! You can place them in a folder called `screenshots/` and update these paths:
 
 ### 1. Dashboard View (Todo List)
 ![Todo List Dashboard](./screenshots/dashboard.png)
